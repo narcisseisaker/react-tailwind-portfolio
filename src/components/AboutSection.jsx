@@ -1,4 +1,4 @@
-import { Briefcase, Code, LucideGitGraph, LucideInfinity, LucideTable, User } from "lucide-react";
+import {Code, LucideInfinity, LucideTable} from "lucide-react";
 
 export const AboutSection = () => {
   return (
@@ -22,8 +22,8 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
+              I&apos;m passionate about creating elegant solutions to complex
+              problems, and I&apos;m constantly learning new technologies and
               techniques to stay at the forefront of the ever-evolving web
               landscape.
             </p>
@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href=""
+                href="https://github.com/narcisseisaker/react-tailwind-portfolio/blob/main/public/CV_MOSSY_MOSSY_ISAKER_NARCISSE.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
