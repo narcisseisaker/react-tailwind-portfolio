@@ -1,4 +1,4 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# This is my Portfolio Website developped with React & TailwindCSS
 
 <div align="center">
   <br />
