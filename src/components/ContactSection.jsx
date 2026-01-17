@@ -7,7 +7,7 @@ import {
   Phone,
   Send,
   
-  Twitter,
+ 
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useToast } from "@/hooks/use-toast";
@@ -101,9 +101,9 @@ export const ContactSection = () => {
                  <Github />
                 </a>
                 
-                <a href="https://wa.me/657128141?text=Bonjour%20!%0A%0AMerci%20de%20me%20laisser%20un%20message.%20Je%20r%C3%A9pondrai%20d%C3%A8s%20que%20disponible.%0ACordialement%2C%0A%0AMOSSY%20MOSSY%20ISAKER%20NARCISSE%0AD%C3%A9veloppeur%20Logiciel%20Java" target="_blank">
+                {/* <a href="https://wa.me/657128141?text=Bonjour%20!%0A%0AMerci%20de%20me%20laisser%20un%20message.%20Je%20r%C3%A9pondrai%20d%C3%A8s%20que%20disponible.%0ACordialement%2C%0A%0AMOSSY%20MOSSY%20ISAKER%20NARCISSE%0AD%C3%A9veloppeur%20Logiciel%20Java" target="_blank">
                   <Twitch />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
