@@ -37,8 +37,8 @@ const projects = [
       "Portfolio to showcase my work using React and Tailwind css",
     image: "/projects/project4.png",
     tags: ["React", "Tailwind css", "Vite"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://mossy-narcisse-portfolio.vercel.app/",
+    githubUrl: "https://github.com/narcisseisaker/react-tailwind-portfolio",
   },
 ];
 
